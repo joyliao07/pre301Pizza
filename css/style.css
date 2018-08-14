@@ -1,0 +1,253 @@
+/* * {
+    outline: dotted 1px red;
+} */
+
+.clearfix{
+    overflow: auto;
+    clear: both;
+}
+
+.container {
+    position: relative;
+    width: 901px;
+    padding-left: 29.5px;
+    padding-right: 29.5px;
+    margin-top: 40px;
+}
+
+div.logo-top {
+    position: relative;
+    width: 40%;
+}
+
+div.logo {
+    position: absolute;
+    float: left;
+
+}
+
+div.logo-text {
+    position: absolute;
+    left: 90px;
+    width: 25%;
+}
+
+h2 {
+    font-family: Pacifico;
+    font-size: 38px;
+}
+
+h3 {
+    font-family: Cormorant Unicase;
+    font-size: 12px;
+    margin-top: 2px;
+}
+
+div.icons {
+    position: absolute;
+    width: 232px;
+    right: 29.5px;
+    top: 16px;
+}
+
+.rss {
+    margin-left: 10px;
+}
+
+div.divide {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.h4-pizza {
+    /* position: absolute;
+    top: 0px; */
+    width: 70%;
+    margin-bottom: 30px;
+}
+
+
+h4{
+    font-family: Jockey One;
+    font-size: 47px;
+}
+
+h5 {
+    font-family: Abel;
+    font-size: 13px;
+    color: gray;
+}
+
+.print {
+    position: absolute;
+    width: 50px;
+    right: 29.5px;
+    top: 242px;
+    /* bottom: 0px; */
+}
+
+.print-text {
+    display: inline;
+}
+
+.img-pizza {
+    width: 901px;
+}
+
+.paragraph {
+    font-family: Markazi Text;
+    font-size: 20px;
+    margin-top: 2px;
+    color: gray;
+}
+
+.para1{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-indent: 25px;
+}
+.para2{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-indent: 25px;
+}
+.para3{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    text-indent: 25px;
+}
+
+.listbg {
+    width: 100%;
+}
+
+.checklist {
+    position: relative;
+    color: gray;
+    font-family: Patrick Hand;
+    font-size: 20px;
+}
+
+.checkbox-left {
+    position: absolute;
+    top: 20px;
+    width: 40%;
+    left: 7.5%;
+
+}
+
+.checkbox-right {
+    position: absolute;
+    top: 20px;
+    width: 40%;
+    right: 10%;
+}
+
+.div-ck {
+    margin-top: 6px;
+    margin-bottom: 6px;  
+}
+
+.bottom-bar {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.feedback {
+    position: relative;
+    width: 100%;
+    height: 200px;
+}
+
+.fd-img {
+    width:10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 7px;
+    /* position: absolute; */
+}
+
+.fd-text {
+    position: absolute;
+    width:70%;
+    height: 100px;
+    left: 90px;
+    bottom: 100px;
+}
+
+.vanessa {
+    position: absolute;
+    font-family: Merriweather;
+    font-size: 20px;
+    color: #363738;
+    margin-bottom: 10px;
+    right: 70z; 
+}
+
+.fd-para {
+    position: absolute;
+    font-family: Markazi Text;
+    font-size: 20px;
+    margin-top: 2px;
+    color: #363738;
+    top: 30px;
+}
+
+.button {
+    position: absolute;
+    font-size: 20px;
+    padding: 20px 20px 20px 20px;
+    right:0;
+    top: 20px;
+    display: inline;
+    background-color: #963d03;
+    font-family: 'Lucida Sans';
+    color: white;
+}
+
+.container-line {
+    position: relative;
+}
+
+.horizontal-line1 {
+    position: absolute;
+    left: 0px;
+    height: 1.5px;
+    width: 415px;
+    background-color: #d8d2d8;
+}
+
+.horizontal-line2 {
+    position: absolute;
+    height: 1.5px;
+    width: 415px;
+    right: 0px;
+    background-color: #d8d2d8;
+}
+
+.part3 {
+    position: relative;
+    height: 400px;
+}
+
+.small-logo {
+    position: absolute;
+    top:185px;
+    left: 435px;
+}
+
+.footer {
+    position: relative;
+    color: gray;
+    text-align: center;
+    top: 80px;
+}
+
+
+
+
+
+
+
+
+
